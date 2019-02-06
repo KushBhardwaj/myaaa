@@ -1,0 +1,14 @@
+SVD
+
+SVM  ->Support Vector Machine
+
+SVC ->Classifier in Scikit learn for vector machine 
+
+PCA
+
+L1L2 REGULARISATION ->
+
+KERNEL ->A function which is used to change the dimensions or we can say that
+         to increase the dimensions so as to apply the Vector in the graph .
+ 
+CLUSTERING UNSUPERVISED - Monday
